@@ -10,7 +10,9 @@ int main()
 	prod=a*b;
 	// Saayan do product here
 	// Shrivas do division here
-	// Sayantan do modulus or remainder here;
+	// Sayantan do modulus or remainder here
+	mod=a%b;
+	printf("REMAINDER=%d",mod);
 	printf("SUM=%d",sum);
 }
 	
