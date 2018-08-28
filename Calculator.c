@@ -8,6 +8,7 @@ int main()
 	int sum,prod,div,mod;
 	sum=a+b;
 	prod=a*b;
+	div=a/b;
 	// Saayan do product here
 	// Shrivas do division here
 	// Sayantan do modulus or remainder here
@@ -15,5 +16,6 @@ int main()
 	printf("\nPRODUCT=%d\n",prod);
 	printf("\nREMAINDER=%d\n",mod);
 	printf("\nSUM=%d\n",sum);
+	printf("\nQUOTIENT=%d\n",div);
 }
 	
