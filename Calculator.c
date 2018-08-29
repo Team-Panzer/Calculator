@@ -12,9 +12,9 @@ int main()
 	// Shrivas do division here
 	// Sayantan do modulus or remainder here
 	mod=a%b;
-	printf("Prod = %d",prod);
-	printf("REMAINDER=%d",mod);
-	printf("SUM=%d",sum);
+	printf("\nPROD = %d\n",prod);
+	printf("\nREMAINDER=%d\n",mod);
+	printf("\nSUM=%d\n",sum);
 	
 	//UNDERSTOOD shrivas?????????
 }
